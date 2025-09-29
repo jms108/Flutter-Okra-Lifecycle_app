@@ -4,7 +4,7 @@ This app is designed for Farmers who wants to cultivate Okra/ Ladies finger . Th
 
 
 
-![screenshot](assets/images/app_ui.jpg)
+![screenshot](assets/images/features.png)
 
 
 
